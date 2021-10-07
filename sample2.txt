@@ -1,0 +1,2 @@
+open ~/.bash_profile
+sample text file
